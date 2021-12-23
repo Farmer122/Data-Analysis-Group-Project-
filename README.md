@@ -1,4 +1,7 @@
 # Data-Analysis-Group-Project-
+
+This project was coded using STATA - A statistical Programming language
+
 Having a university degree undoubtedly influences one's lifelong income expectations, 
 which is one of the main motivators for students pursuing higher education. 
 We wanted to achieve a better understanding beyond this usual conclusion, 
